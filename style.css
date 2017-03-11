@@ -1,0 +1,13 @@
+table{ border-collapse: collapse; background-color: #fff; }
+#red table{ box-shadow: 10px 10px 5px #ccc; }
+#red th{ background-color: #D32F2F; padding: 15px; }
+#red td{ background-color: #2d2d2d; color: #fff; }
+#green table{ box-shadow: 10px 10px 5px #ccc; }
+#green th{ background-color: #388E3C; padding: 15px; } 
+#green td{ background-color: #2d2d2d; color: #fff; }
+#blue table{ box-shadow: 10px 10px 5px #ccc; }
+#blue th{ background-color: #03A9f4; padding: 15px; } 
+#blue td{ background-color: #2d2d2d; color: #fff; }
+table tr{ background-color: #2d2d2d; color: #fff; } 
+table tr a{ color: #fff; text-decoration: none; }
+table td{ padding: 10px; background-color: #fff; }
